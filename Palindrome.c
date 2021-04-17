@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-//A Palindrome tester with the added bonus of only using the first worf
+//A Palindrome tester with the added bonus of only using the first word
 //And also having an auto lowercase feature to make it work better if the user enters a capital
 void test(char test1[256])
 {
